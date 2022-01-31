@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oppsconcept", "oppsconcept\oppsconcept.csproj", "{5B526526-D55D-4384-9216-0074D9BE08AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D36F1EF9-BA8F-4400-A37E-436720F697CD}"
+	ProjectSection(SolutionItems) = preProject
+		objclass.cs = objclass.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B526526-D55D-4384-9216-0074D9BE08AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B526526-D55D-4384-9216-0074D9BE08AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B526526-D55D-4384-9216-0074D9BE08AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B526526-D55D-4384-9216-0074D9BE08AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B18AAA8C-5D40-4ADF-9506-8D098053762C}
+	EndGlobalSection
+EndGlobal
